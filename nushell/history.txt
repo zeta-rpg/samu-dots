@@ -1,0 +1,204 @@
+nvim
+zellij
+cd ..
+cd..
+cd ..
+ls
+cd ..
+ls
+cd Users/Abel
+ls
+cd Desktop/
+ls
+cd IMG/
+ls
+sakura.jpg
+cd ..
+ls
+cd ..
+ls
+cd home/abel/
+ls
+cd ..
+nvim
+zell
+exit
+n
+nvim 
+cd ..
+cd 
+cd ..
+ls
+cd mnt/
+cd c/Users/Abel/Documents/
+cd `REAPER Media/`
+cd Javascript/
+cd A2-Grafica/
+nvim .
+npm run dev 
+npm install
+npm install 
+npm init -y<\n>
+npm run dev
+exit
+npm run dev
+exit
+exit 
+live-server
+exit
+zellij
+nushell
+nvim
+exit
+zellij 
+exit
+nvim
+q
+nvim
+chmod +x setup_terminal.sh<\n>
+chmod +x setup_terminal.sh
+chmod +x terminal_setup.sh
+./terminal_setup.sh
+which nu<\n>
+echo 'export PATH=$HOME/.cargo/bin:$PATH' >> ~/.bashrc<\n>source ~/.bashrc<\n>
+./terminal_setup.sh
+zellij 
+exit
+zellij 
+ze
+exit
+zellij 
+ls
+tmux
+exit
+cd ..
+nvim
+cd ..
+nvim
+exit
+exit
+zellij
+exit
+a
+as
+sa
+as
+:q
+exit
+i
+c
+cas
+asd
+f
+as
+ls
+cd ..
+cd..
+cd ..
+ls
+nvim
+nvim 
+nvim
+nvim 
+nvim
+nvim 
+nvim
+exit
+exit
+clear
+cd ..
+nvim
+exit
+nvim
+exit
+nvim
+nvim 
+nvim
+ls
+nvim
+zellij setup --disable-ui-hints<\n>
+nvim
+cd ..
+ls
+cd home/abel/
+ls
+ls-a
+ls -a
+cd .config/
+ls
+cd zellij/
+ls
+nvim .
+nvim
+rm -f ~/.local/share/zellij/welcome_screen_seen<\n>
+cd ..
+cd 
+cd .local/
+cd share/
+cd zellij
+cd ~/.local/share/zellij<\n># o<\n>ls ~/.local/share/zellij<\n>
+mkdir -p ~/.local/share/zellij<\n>
+mkdir ~/.local/share/zellij<\n>
+ls ~/.local/share/zellij<\n>
+zellij<\n>
+ls ~/.local/share/zellij
+nvim
+cd ~/c
+cd ~/mnt/c/users/Abel/Documents/
+cd /mnt/c/Users/Abel/Documents<\n>
+clea
+^clear 
+cd `REAPER Media/`
+ls
+cd Javascript/
+ls
+cd `practica js/`
+cd holamundo/
+mkfile 
+touch ejercicios.js
+exit
+nvim .
+cd `Users/Abel/Documents/REAPER Media/`
+cd `Javascript/practica js/holamundo/`
+cd ..
+cd home/abel/.config/nvim/lua/config/
+nvim 
+nvim
+cd Users/Abel
+cd `Documents/REAPER Media/Javascript/practica js/holamundo/`
+nvim .
+cd Users/Abel/Documents/
+cd `REAPER Media/Javascript/practica js/holamundo/`
+Ls
+ls
+clear 
+cd ..
+ls
+cd Users/Abel/Documents/
+ls
+cd `REAPER Media/Javascript/practica js/`
+exit
+npm install @astrojs/netlify
+exit
+npm run build
+npm install -g netlify-cli<\n>
+npm run build<\n>
+netlify deploy --prod<\n>
+netlify init<\n>
+netlify deploy --prod<\n>
+netlify deploy --prod
+exit
+cd `REAPER Media/Javascript/practica js/`
+cd ....
+cd ..
+ls
+cd `Users/Abel/Documents/REAPER Media/Javascript/`
+ls
+cd Tapiales-church/
+n
+netlify deploy --prod
+nvim .
+cd ..
+netlify deploy --prod
+exit
+nvim .

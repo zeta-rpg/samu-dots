@@ -1,0 +1,7 @@
+layout {
+    tab {
+        pane { command = "nu" }
+        split_direction = "Vertical"
+        pane { command = "htop" }
+    }
+}

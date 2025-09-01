@@ -1,0 +1,64 @@
+disable_ui_hints true
+
+// Plugins
+
+plugins {
+    compact-bar {
+        location "zellij:compact-bar"
+    }
+    configuration {
+        location "zellij:configuration"
+    }
+    filepicker {
+        location "zellij:strider"
+        cwd "/"
+    }
+    plugin-manager {
+        location "zellij:plugin-manager"
+    }
+    session-manager {
+        location "zellij:session-manager"
+    }
+    status-bar {
+        location "zellij:status-bar"
+    }
+    strider {
+        location "zellij:strider"
+    }
+    tab-bar {
+        location "zellij:tab-bar"
+    }
+   }
+
+// Themes
+themes {
+    kanagawa_wave {
+        fg "#DCD7BA"
+        bg "#1F1F28"
+        red "#C34043"
+        green "#76946A"
+        yellow "#C0A36E"
+        blue "#7E9CD8"
+        magenta "#957FB8"
+        cyan "#6A9589"
+        orange "#FFA066"
+        black "#1F1F28"
+        white "#DCD7BA"
+    }
+    sakura {
+        fg "#c5a3a9"        // main text
+        bg "#1c1a1c"        // dark background
+        red "#2B1720"       // pink
+        green "#878fb9"     // blue
+        yellow "#9e97d0"    // purple
+        blue "#878fb9"      // blue
+        magenta "#9e97d0"   // purple
+        cyan "#878fb9"      // blue
+        orange "#9e97d0"    // purple
+        black "#1c1a1c"     // background
+        white "#c5a3a9"     // light text
+    }
+}
+
+// Tema activo
+theme "sakura"

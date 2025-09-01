@@ -1,0 +1,24 @@
+options {
+    default-shell "nu"
+    enable-true-color true
+    use-proxy-tty true
+    pane-frames true
+    scroll-buffer-size 10000	
+}
+
+keybinds.normal {
+    send-prefix "Ctrl+a"
+    split-vertical "v"
+    split-horizontal "h"
+    close-pane "x"
+    move-focus-left "Left"
+    move-focus-right "Right"
+    move-focus-up "Up"
+    move-focus-down "Down"
+    new-tab "t"
+    close-tab "T"
+    next-tab "n"
+    previous-tab "p"
+    enter-copy-mode "c"
+    quit "q"
+}
