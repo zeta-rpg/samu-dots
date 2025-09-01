@@ -58,10 +58,11 @@ stow nvim alacritty nushell zellij
 
 ## 📸 Screenshots
 
-*(Coloca tus imágenes aquí más adelante)*
-
 ```markdown
-![Neovim](screenshots/1.png)
+![Alacritty](https://github.com/zeta-rpg/samu-dots/raw/main/screenshots/1.png)
+![Dashboard](https://github.com/zeta-rpg/samu-dots/raw/main/screenshots/2.png)
+![Nvim](https://github.com/zeta-rpg/samu-dots/raw/main/screenshots/3.png)
+![Nvim](https://github.com/zeta-rpg/samu-dots/raw/main/screenshots/4.png)
 
 ```
 
