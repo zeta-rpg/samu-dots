@@ -61,10 +61,7 @@ stow nvim alacritty nushell zellij
 *(Coloca tus imágenes aquí más adelante)*
 
 ```markdown
-<img width="1919" height="1003" alt="4" src="https://github.com/user-attachments/assets/bfa57da7-6726-430a-9feb-2baa3ff2fd91" />
-<img width="1919" height="1002" alt="3" src="https://github.com/user-attachments/assets/b2743b20-9d8d-471a-8ed6-6ec2d937fb6f" />
-<img width="1917" height="1006" alt="2" src="https://github.com/user-attachments/assets/653861e8-a8e3-48ae-9ce8-1bbd5744a46f" />
-<img width="1919" height="1008" alt="1" src="https://github.com/user-attachments/assets/4e09da8b-27cb-457f-a83e-10c9183db41a" />
+![Neovim](screenshots/1.png)
 
 ```
 
