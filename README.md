@@ -1,12 +1,3 @@
-¡Perfecto! 😎 Entonces te armo un **README.md completo y visual** para tu repo `samu-dots`, incluyendo:
-
-* Basado en **Gentleman Programming Dots**
-* Dashboard con **DevasLife** (link al repo)
-* Badges de GitHub, secciones claras, emojis
-* Marcadores para que luego puedas poner tus screenshots
-
-Aquí va la versión lista:
-
 ````markdown
 # Samu Dots ✨
 
