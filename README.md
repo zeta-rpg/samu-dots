@@ -1,4 +1,4 @@
-````markdown
+
 # Samu Dots ✨
 
 💻 Mis **dotfiles** personales para un entorno de desarrollo moderno en **WSL**, basados en [Gentleman Programming Dots](https://github.com/GentlemanProgramming/dots).  
