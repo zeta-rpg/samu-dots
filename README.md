@@ -11,8 +11,8 @@ Incluye configuraciones para **Neovim**, **Alacritty**,**Wezterm**, **Nushell**,
 - **Neovim**: Plugins, keymaps, apariencia y productividad al estilo Gentleman Programming.  
 - **Alacritty**: Colores, fuentes y terminal rápida.
 - **Wezterm**: Kanagawa theme
-- **Fish**: Sencillo y sobrio
-- **Nushell**: Prompt personalizado, alias y comandos útiles.  
+- **Fish**: Sencillo y sobrio // Para editar el icono, debe cambiarse no en los temas de la terminal, sino en el archivo starship.toml
+- **Nushell**: Prompt personalizado, alias y comandos útiles. // Al igual que en fish
 - **Zellij**: Layouts y sesiones para trabajar con múltiples paneles.  
 - **Dashboard**: Basado en [DevasLife Dots](https://github.com/DevasLife/dots).  
 
