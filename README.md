@@ -98,6 +98,19 @@ Copia/symlinkea cada carpeta a `~/.config/<nombre>` (y `~/.tmux*` para tmux).
 
 ---
 
+## 📸 Screenshots
+
+![UI](screenshots/ui.png)
+![Fish + Tmux](screenshots/fish-tmux.png)
+![OpenCode](screenshots/opencode.png)
+![Gemini](screenshots/gemini.png)
+![Oil](screenshots/oil.png)
+![Files](screenshots/files.png)
+![Grep](screenshots/grep.png)
+
+---
+
+## 🙏 Créditos", "oldString">
 ## 🙏 Créditos
 
 - **DevasLife** — inspiración del dashboard y estructura de nvim ([DevasLife/dots](https://github.com/DevasLife/dots)).
