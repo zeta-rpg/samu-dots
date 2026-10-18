@@ -18,8 +18,8 @@ keymap.set("v", "<Leader>D", '"_D')
 -- Increment/decrement
 keymap.set("n", "+", "<C-a>")
 
--- Delete a word backwards
-keymap.set("n", "dw", 'vb"_d')
+-- Save file and return to normal mode
+keymap.set({ "i", "n", "v" }, "<C-s>", "<Esc>:w<CR>", { noremap = true, silent = true, desc = "Save file" })
 
 -- Select all
 keymap.set("n", "<C-a>", "gg<S-v>G")
