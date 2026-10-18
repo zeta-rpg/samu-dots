@@ -43,6 +43,8 @@ La rama `main` contenía una configuración más amplia (inspirada en Gentleman 
 
 **Filosofía:** menos paquetes, menos ruido, solo lo que uso cada día.
 
+> 🎨 Variante **Solarized Dark**: rama `dots-minimalist-2026-solarized` (alacritty + tmux + nvim con Solarized).
+
 ---
 
 ## 🤖 Relacionamiento con IA
