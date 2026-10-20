@@ -1,0 +1,14 @@
+# Archivos/rutas que stow NO debe enlazar
+\.git
+\.gitignore
+\.stow-local-ignore
+README.*
+LICENSE.*
+screenshots
+.*:Zone\.Identifier
+nvim-pack-lock\.json
+fish_variables
+fish/fish/completions
+fish/fish/functions/.*\.fish
+fish/fish/conf\.d/nvm\.fish
+fish/fish/fish_plugins

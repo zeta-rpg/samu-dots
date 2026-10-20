@@ -1,0 +1,26 @@
+# ============================================================
+#  Artefactos generados por instaladores (NO son dotfiles)
+# ============================================================
+
+# Fisher (gestor de plugins de fish) instala dentro de fish/
+fish/fish/completions/
+fish/fish/conf.d/fzf.fish
+fish/fish/functions/_fzf_*.fish
+fish/fish/functions/fzf_wrapper.fish
+fish/fish/functions/fzf_configure_bindings.fish
+fish/fish/functions/fisher.fish
+fish/fish/functions/_nvm_*.fish
+fish/fish/functions/nvm.fish
+fish/fish/conf.d/nvm.fish
+fish/fish/fish_plugins
+fish/fish/fish_variables
+
+# Lock de vim.pack (se regenera)
+nvim/nvim-pack-lock.json
+
+# Basura de Windows
+*:Zone.Identifier
+
+# OS
+.DS_Store
+Thumbs.db

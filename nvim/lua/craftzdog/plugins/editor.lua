@@ -55,6 +55,17 @@ require("blink.cmp").setup({
 
 	keymap = {
 		preset = "enter",
+		["<Tab>"] = {
+			function()
+				local suggestion = require("copilot.suggestion")
+				if suggestion.is_visible() then
+					suggestion.accept()
+					return true
+				end
+			end,
+			"snippet_forward",
+			"fallback",
+		},
 		["c-y"] = { "select_and_accept" },
 	},
 
