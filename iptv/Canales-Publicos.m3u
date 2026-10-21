@@ -1,0 +1,41 @@
+#EXTM3U
+# ============================================================
+#  Lista IPTV curada - canales publicos (iptv-org)
+#  Generada: 2026-10-21
+#  Uso: VLC -> Medio -> Abrir ubicacion de red -> pegar este archivo
+#       o doble clic en el archivo .m3u
+# ============================================================
+
+# ---------- NOTICIAS INTERNACIONALES (siempre funcionan) ----------
+#EXTINF:-1 group-title="Noticias",France 24 Espanol
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="Noticias",DW Espanol
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="Noticias",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="Noticias",Euronews Espanol
+https://rakuten-euronews-es-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",RT Espanol
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",CNN Chile
+https://unlimited1-cl-rtl15-samsungau.amagi.tv/playlist.m3u8
+
+# ---------- ARGENTINA ----------
+#EXTINF:-1 group-title="Argentina",TV Publica
+https://05d00a6ad2dc4a2f91d9a63b7ced19cd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Ar_ArgentinaTVPublica/playlist.m3u8
+#EXTINF:-1 group-title="Argentina",A24 Noticias
+https://5fb24b8609f27.streamlock.net/a24envivo/a24envivo/playlist.m3u8
+#EXTINF:-1 group-title="Argentina",C5N
+https://unlimited1-cl-rtl17-samsungcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Argentina",Cronica TV
+https://unlimited1-cl-rtl18-samsungcl.amagi.tv/playlist.m3u8
+
+# ---------- NATURALEZA / DOCUMENTALES ----------
+#EXTINF:-1 group-title="Documentales",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="Documentales",Bloomberg TV
+https://bloomberg-bloombergtv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+# ---------- MUSICA ----------
+#EXTINF:-1 group-title="Musica",Radio Paradise (video)
+https://stream.radioparadise.com/h264-1080p
