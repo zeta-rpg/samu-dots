@@ -148,3 +148,25 @@ abbr -a ytsub 'yt-dlp --skip-download --write-subs --sub-langs "es.*,en.*"'
 abbr -a ytformats 'yt-dlp -F'
 # Descargar playlist completa numerada
 abbr -a ytplaylist 'yt-dlp -o "%(playlist_index)s - %(title)s.%(ext)s"'
+
+# === Herramientas CLI modernas ===
+# ls con iconos y colores (eza)
+abbr -a l  'eza --icons --group-directories-first'
+abbr -a ll 'eza -lh --icons --group-directories-first --git'
+abbr -a la 'eza -lah --icons --group-directories-first --git'
+abbr -a lt 'eza --tree --icons --level=2'
+# Monitor de sistema (btop)
+abbr -a top 'btop'
+# Uso de disco: dust (por carpeta, tipo du) y duf (discos, tipo df)
+abbr -a du  'dust'
+abbr -a df  'duf'
+# Procesos (procs, alternativa moderna a ps)
+abbr -a ps  'procs'
+# yazi: gestor de archivos TUI
+abbr -a fm  'yazi'
+# tig: visor de git en terminal
+abbr -a gt  'tig'
+
+# uv: gestor de Python (mucho mas rapido que pip)
+abbr -a py  'uv run python'
+
