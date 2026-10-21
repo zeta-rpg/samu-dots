@@ -128,3 +128,23 @@ clear
 
 # Buenos Aires timezone
 set -gx TZ "America/Argentina/Buenos_Aires"
+
+# === yt-dlp aliases ===
+# Video en mejor calidad (usa la config de ~/.config/yt-dlp/config)
+abbr -a yt 'yt-dlp'
+# Solo audio -> MP3
+abbr -a ytmp3 'yt-dlp -x --audio-format mp3 --audio-quality 0'
+# Solo audio -> M4A (mejor calidad, sin reconversion)
+abbr -a ytm4a 'yt-dlp -f ba -x --audio-format m4a'
+# Video en 1080p max
+abbr -a yt1080 'yt-dlp -f "bv*[height<=1080]+ba/b[height<=1080]"'
+# Video en 720p max
+abbr -a yt720 'yt-dlp -f "bv*[height<=720]+ba/b[height<=720]"'
+# Solo la miniatura
+abbr -a ytthumb 'yt-dlp --skip-download --write-thumbnail'
+# Solo los subtitulos
+abbr -a ytsub 'yt-dlp --skip-download --write-subs --sub-langs "es.*,en.*"'
+# Ver formatos disponibles sin descargar
+abbr -a ytformats 'yt-dlp -F'
+# Descargar playlist completa numerada
+abbr -a ytplaylist 'yt-dlp -o "%(playlist_index)s - %(title)s.%(ext)s"'
