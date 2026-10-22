@@ -29,6 +29,19 @@ vim.api.nvim_create_autocmd("TextYankPost", {
 	end,
 })
 
+-- Wrap solo para prosa (markdown, notas, texto, commits, latex...)
+-- El codigo queda sin wrap (vim.opt.wrap = false en options.lua)
+vim.api.nvim_create_autocmd("FileType", {
+	group = augroup,
+	pattern = { "markdown", "text", "gitcommit", "tex", "rst", "asciidoc" },
+	callback = function()
+		vim.opt_local.wrap = true -- Partir lineas largas visualmente
+		vim.opt_local.linebreak = true -- Partir en palabras, no a mitad de palabra
+		vim.opt_local.textwidth = 100 -- Ancho de referencia (100 columnas)
+		vim.opt_local.colorcolumn = "100" -- Guia visual en la columna 100
+	end,
+})
+
 -- Custom filetypes
 vim.filetype.add({
 	extension = {
