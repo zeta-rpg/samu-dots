@@ -12,3 +12,7 @@ fish/fish/completions
 fish/fish/functions/.*\.fish
 fish/fish/conf\.d/nvm\.fish
 fish/fish/fish_plugins
+
+# Bytecode de Python
+__pycache__
+\.pyc$

@@ -24,3 +24,7 @@ nvim/nvim-pack-lock.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Bytecode de Python (se regenera solo, no es dotfile)
+__pycache__/
+*.pyc
